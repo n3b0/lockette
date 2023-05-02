@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+<h1 style="font-family: Luxurious Script;";>Lockette</h1>
+<p style="font-family: Andale Mono;">[ digital privacy toolkit for personal archival and expression ]</p>
+
