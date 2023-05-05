@@ -1,13 +1,43 @@
 // Specific CSS for your home-page
 h1 {
-  font-size: 800%;
-  display: flex;
-  margin-top: 10%;
-  margin-left: 20%;
+  font-size: 400%;
+  // display: flex;
+  text-align: center;
+  margin-top: 21px;
+  font-family: Luxurious Script;
 }
 
 p{
 
   text-align: center;
-  margin-top: 5%;
+  margin-top: 25%;
+  margin: 20px;
+  font-family: Andale Mono;
+}
+
+h2,h3{
+  font-family: Luxurious Script;
+  text-align: center;
+  margin-top: 21px;
+  font-size: 200%;
+
+}
+
+// body{
+
+//   cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAMAAAAxmgQeAAAACVBMVEX///8AAAD///9+749PAAAAAXRSTlMAQObYZgAAAD5JREFUGNN1j9EKADAIAnP//9GjFq6w7iU4DNRsB06cb44TJ+UzYUcniqnqoA6ag/62JhjKIU0rxx1lKveuXJ5UAQs/G/2vAAAAAElFTkSuQmCC),auto;
+
+// }
+ul{
+  font-family: Andale Mono;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 16px;
+}
+h3{
+  margin-bottom: 21px;
 }
