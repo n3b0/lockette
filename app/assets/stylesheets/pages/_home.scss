@@ -5,6 +5,8 @@ h1 {
   text-align: center;
   margin-top: 21px;
   font-family: Luxurious Script;
+
+
 }
 
 p{
@@ -13,6 +15,10 @@ p{
   margin-top: 25%;
   margin: 20px;
   font-family: Andale Mono, Roboto Mono, monospace;
+  // what to do about mobile vs desktop view for margin auto vs margin 20px
+  // max-width: 600px;
+  // margin: auto;
+  // margin-top: 20px;
 }
 
 h2,h3{
@@ -20,6 +26,7 @@ h2,h3{
   text-align: center;
   margin-top: 21px;
   font-size: 200%;
+
 
 }
 
@@ -29,8 +36,11 @@ h2,h3{
 
 // }
 ul{
+  // add roboto mono or make the ul monospace?
   font-family: Andale Mono, monospace;
   text-align:justify;
+  max-width: 500px;
+  margin:auto;
 }
 img{
   display: block;
