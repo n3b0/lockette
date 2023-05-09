@@ -1,8 +1,12 @@
 // Specific CSS for your home-page
 
 body {
-  margin-bottom: 1rem;
-  cursor: image-url("old-key-emoji.png"),auto;
+  margin-bottom: 3rem;
+  cursor: url(https://ani.cursors-4u.net/symbols/sym-9/sym837.ani), url(https://ani.cursors-4u.net/symbols/sym-9/sym837.png), auto !important;
+  ::selection {
+    background: #FBAACD;
+  }
+
 }
 h1 {
   font-size: 400%;
