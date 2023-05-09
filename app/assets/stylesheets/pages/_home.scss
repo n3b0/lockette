@@ -1,4 +1,9 @@
 // Specific CSS for your home-page
+
+body {
+  margin-bottom: 1rem;
+  cursor: image-url("old-key-emoji.png"),auto;
+}
 h1 {
   font-size: 400%;
   // display: flex;
@@ -15,10 +20,12 @@ p{
   margin-top: 25%;
   margin: 20px;
   font-family: Andale Mono, Roboto Mono, monospace;
-  // what to do about mobile vs desktop view for margin auto vs margin 20px
-  // max-width: 600px;
-  // margin: auto;
-  // margin-top: 20px;
+}
+.intro{
+  max-width: 600px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2,h3{
