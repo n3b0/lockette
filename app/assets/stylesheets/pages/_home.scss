@@ -58,8 +58,22 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: auto;
-  margin-top: 16px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
-h3{
-  margin-bottom: 21px;
+
+
+.footer1 {
+  position: fixed, bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  text-align: center;
+  margin-top: 60px;
+  margin-left: 0%;
+}
+
+h6{
+font-family: Andale Mono, Roboto Mono, monospace;
 }
